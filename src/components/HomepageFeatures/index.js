@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Cập nhật tin tức thị trường',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Cập nhật những tin tức mới nhất về thị trường tiền kỹ thuật số. Các thông tin ảnh hưởng tới thị trường.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Chia sẻ kinh nghiệm cá nhân',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Chia sẻ những kinh nghiệm đầu tư trong thị trường từ những người đi trước.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Hướng dẫn người mới',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Cung cấp những hướng dẫn đầu tư cho người mới gia nhập thị trường.
       </>
     ),
   },
