@@ -128,6 +128,34 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      metadata: [
+        {
+          name: "keywords",
+          content:
+            "crypto, cryptocurency",
+        },
+        {
+          name: "keywords",
+          content: "bitcoin, ethereum",
+        },
+        {
+          name: "keywords",
+          content: "tiền kỹ thuật số ",
+        },
+        {
+          name: "keywords",
+          content: "khóa học crypto",
+        },
+        {
+          name: "keywords",
+          content: "đầu tư tiền số cho người mới bắt đầu",
+        },
+        {
+          name: "description",
+          content:
+            "Chia sẻ những kinh nghiệm đầu tư trong thị trường từ những người đi trước. Cung cấp những hướng dẫn đầu tư cho người mới gia nhập thị trường.",
+        },
+      ],
     }),
 };
 
