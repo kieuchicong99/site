@@ -132,6 +132,36 @@ const config = {
         {
           name: "keywords",
           content:
+            "Hướng dẫn đầu tư crypto",
+        },
+        {
+          name: "keywords",
+          content:
+            "tiền kỹ thuật số",
+        },
+        {
+          name: "keywords",
+          content:
+            "Thông tin thị trường coin hôm nay",
+        },
+        {
+          name: "keywords",
+          content:
+            "Tin tức mới nhất về thị trường crypto ",
+        },
+        {
+          name: "keywords",
+          content:
+            "Crypto là gì ",
+        },
+        {
+          name: "keywords",
+          content:
+            "Tiền ảo",
+        },
+        {
+          name: "keywords",
+          content:
             "crypto, cryptocurency",
         },
         {
